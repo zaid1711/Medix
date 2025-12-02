@@ -1,0 +1,2 @@
+# Medix
+Here is the **project description under 300 characters**:  **A blockchain-based EHR system using the MERN stack, Ethereum smart contracts, and IPFS to ensure secure, decentralized, and tamper-proof medical record storage with role-based access for Patients, Doctors, and Admins.
