@@ -1,0 +1,62 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#gradient)" rx="16"/>
+  
+  <!-- Logo -->
+  <g transform="translate(40, 40)">
+    <rect width="40" height="40" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <text x="20" y="28" text-anchor="middle" fill="white" font-size="20" font-weight="bold">⚕️</text>
+  </g>
+  
+  <!-- Brand Name -->
+  <text x="95" y="68" fill="white" font-size="24" font-weight="bold" font-family="system-ui, -apple-system, sans-serif">Medix</text>
+  
+  <!-- Healthcare Professionals Card -->
+  <g transform="translate(50, 120)">
+    <rect width="300" height="120" rx="12" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    
+    <!-- Doctor Icons -->
+    <g transform="translate(100, 30)">
+      <!-- First Doctor -->
+      <g transform="translate(0, 0)">
+        <circle cx="25" cy="25" r="20" fill="#FFD700"/>
+        <text x="25" y="30" text-anchor="middle" font-size="16">👩‍⚕️</text>
+      </g>
+      
+      <!-- Second Doctor -->
+      <g transform="translate(60, 0)">
+        <circle cx="25" cy="25" r="20" fill="#FFD700"/>
+        <text x="25" y="30" text-anchor="middle" font-size="16">👨‍⚕️</text>
+      </g>
+    </g>
+    
+    <!-- Healthcare Professionals Text -->
+    <text x="150" y="85" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="16" font-weight="500" font-family="system-ui, -apple-system, sans-serif">Healthcare Professionals</text>
+  </g>
+  
+  <!-- Main Title -->
+  <text x="200" y="170" text-anchor="middle" fill="white" font-size="28" font-weight="bold" font-family="system-ui, -apple-system, sans-serif">Enhance impact in healthcare</text>
+  
+  <!-- Description -->
+  <text x="200" y="200" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="14" font-family="system-ui, -apple-system, sans-serif">
+    <tspan x="200" dy="0">Your impact in healthcare just got stronger. Enhance</tspan>
+    <tspan x="200" dy="18">patient care through refined data control, seamless</tspan>
+    <tspan x="200" dy="18">appointments and impactful task management.</tspan>
+  </text>
+  
+  <!-- Progress Dots -->
+  <g transform="translate(175, 260)">
+    <rect x="0" y="0" width="12" height="4" rx="2" fill="white"/>
+    <rect x="18" y="0" width="4" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+    <rect x="28" y="0" width="4" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+    <rect x="38" y="0" width="4" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+  </g>
+  
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1E40AF"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "/login/page": "app/login/page.js",
+  "/patient/page": "app/patient/page.js",
+  "/patient/appointments/page": "app/patient/appointments/page.js",
+  "/doctor/page": "app/doctor/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/patients/page": "app/admin/patients/page.js",
+  "/admin/doctors/page": "app/admin/doctors/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/add-user/page": "app/admin/add-user/page.js",
+  "/page": "app/page.js"
+}
