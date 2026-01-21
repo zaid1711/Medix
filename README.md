@@ -277,7 +277,7 @@ This project is licensed under the MIT License.
 
 If you encounter any issues or have questions:
 
-1. Check the troubleshooting section above
+1. Check the troubleshooting section above.
 2. Review the error logs in the console
 3. Ensure all dependencies are properly installed
 4. Verify your environment variables are correctly set
